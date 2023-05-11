@@ -6,13 +6,15 @@ Here are some ideas to get you started:!-->
 <img src=https://user-images.githubusercontent.com/113372698/236702805-8a1ab43f-b55f-4498-9f59-c9a9c76f7acc.jpg>
 
 ## About Me
-Hi folks I'm **Julio C. Martínez**, please welcome to my **GitHub** page where you can find my work of resent projects as data scientist, if you've any question let'ts talk about it, you can find me on any of my social networks.
+Hi folks I'm **Julio C. Martínez**, please welcome to my **GitHub** page. I'm an audio engineer I've been working on entertainment industry for the last 8 years. Unfortunately pandemics change my life stopping my activities. Now I enjoy solving probability, statistics and prediction problems by conducting **Data Science** and business intelligence using machine learning tools, nlp, data tabulate, databases and programming, since they have now become powerful elements to generate a more strategic vision in business.
 
-**Interested on**
+
+**Interested on:**
 - Data Analyzis
 - Machine Learning
 - Time Series
 - Deep Learning
+- NLP
 
 **I'm Open to:**
 - any collaboration work
