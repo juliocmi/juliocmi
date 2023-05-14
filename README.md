@@ -6,7 +6,16 @@ Here are some ideas to get you started:!-->
 <img src=https://user-images.githubusercontent.com/113372698/236702805-8a1ab43f-b55f-4498-9f59-c9a9c76f7acc.jpg>
 
 ## About Me
-Hi folks I'm **Julio C. Martínez**, please welcome to my **GitHub** page. I'm an audio engineer I've been working on entertainment industry for the last 8 years. Unfortunately pandemics change my life stopping my activities. Now I enjoy solving probability, statistics and prediction problems by conducting **Data Science** and business intelligence using machine learning tools, nlp, data tabulate, databases and programming, since they have now become powerful elements to generate a more strategic vision in business.
+
+**ESPAÑOL**
+
+Hola amigos, soy **Julio Martínez**, bienvenidos a mi página de **GitHub**. Como parte de mi crecimiento profesional voy a publicar en este sitio mi trabajo como **Data Scientist**, esto con el objetivo de mostrar evidencia sobre mi capacidad para integrarme a un equipo de trabajo profesional. Tu follow me ayuda y me inspira a continuar trabajando en esto que me apasiona. Gracias.
+
+---
+
+**ENGLISH**
+
+Hi folks, I’m **Julio Martinez**, welcome to my **GitHub** page. As part of my professional growth, I will post on this site my work as a **Data Scientist**, to show evidence about my ability to join a professional team. Your follow helps and inspires me to keep working on what I’m passionate about. Thank you.
 
 
 **Interested on:**
@@ -28,15 +37,14 @@ Hi folks I'm **Julio C. Martínez**, please welcome to my **GitHub** page. I'm a
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![LightGBM](https://img.shields.io/badge/LightGBM-black?style=for-the-badge&logo=lightgbm&logoColor=4E9BCD) ![Catboost](https://img.shields.io/badge/Catboost-%23E7EEF0.svg?style=for-the-badge&logo=catboost&logoColor=%2302A8EF) ![XGBoost](https://img.shields.io/badge/XGBoost-%23F46800.svg?style=for-the-badge&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![LightGBM](https://img.shields.io/badge/LightGBM-black?style=for-the-badge&logo=lightgbm&logoColor=4E9BCD) ![Catboost](https://img.shields.io/badge/Catboost-%23E7EEF0.svg?style=for-the-badge&logo=catboost&logoColor=%2302A8EF) ![XGBoost](https://img.shields.io/badge/XGBoost-%23F46800.svg?style=for-the-badge&logo=xgboost&logoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 **IDEs/Editors**
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white) 
 
-**Database**
+**Databases**
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Office**
@@ -47,7 +55,7 @@ Hi folks I'm **Julio C. Martínez**, please welcome to my **GitHub** page. I'm a
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Extras**
+**Additional Tools**
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
