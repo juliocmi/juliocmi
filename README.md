@@ -3,19 +3,27 @@
 **juliocmi/juliocmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:!-->
-<img src=https://user-images.githubusercontent.com/113372698/236702805-8a1ab43f-b55f-4498-9f59-c9a9c76f7acc.jpg>
+<img src=https://github.com/juliocmi/juliocmi/assets/113372698/1e506cc5-a359-447f-a9b5-e71d58c87a35.jpg>
+
+
 
 ## About Me
 
 **ESPAÑOL**
 
-Hola amigos, soy **Julio Martínez**, bienvenidos a mi página de **GitHub**. Como parte de mi crecimiento profesional voy a publicar en este sitio mi trabajo como **Data Scientist**, esto con el objetivo de mostrar evidencia sobre mi capacidad para integrarme a un equipo de trabajo profesional. Tu follow me ayuda y me inspira a continuar trabajando en esto que me apasiona. Gracias.
+Hola amigos, soy **Julio Martínez**, bienvenidos a mi página de **GitHub**. Como parte de mi crecimiento profesional, voy a publicar en este sitio mi trabajo como **Data Scientist**, esto con el objetivo de mostrar evidencia sobre mi capacidad para integrarme a un equipo de trabajo profesional. 
+
+Los proyectos que verás aquí están en español, si deseas ver su versión en inglés puedes hacerlo en mi página de [Kaggle](https://www.kaggle.com/juliokorleone).
+
+Tu follow me ayuda y me inspira a continuar trabajando en este mundo que me apasiona tanto. 
 
 ---
 
 **ENGLISH**
 
-Hi folks, I’m **Julio Martinez**, welcome to my **GitHub** page. As part of my professional growth, I will post on this site my work as a **Data Scientist**, to show evidence about my ability to join a professional team. Your follow helps and inspires me to keep working on what I’m passionate about. Thank you.
+Hi folks, I’m **Julio Martinez**, welcome to my **GitHub** page. As part of my professional growth, I will post on this site my work as a **Data Scientist**, to show evidence about my ability to join a professional team. Your follow helps and inspires me to keep working on what I’m passionate about.
+
+You can see all my projects in spanish, if you prefer english version, please visit my [Kaggle](https://www.kaggle.com/juliokorleone) page.
 
 
 **Interested on:**
