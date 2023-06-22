@@ -70,4 +70,4 @@ You can see all my projects in spanish, if you prefer english version, please vi
 
 ## Connect With Me:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/juliocmi/) || [Twitter](https://twitter.com/juliocmi) || [Kaggle](https://www.kaggle.com/juliokorleone)
