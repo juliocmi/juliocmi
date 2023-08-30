@@ -5,39 +5,29 @@
 Here are some ideas to get you started:!-->
 <img src=https://github.com/juliocmi/juliocmi/assets/113372698/1e506cc5-a359-447f-a9b5-e71d58c87a35.jpg>
 
-
-
 ## About Me
 
 **ESPAÑOL**
 
-Hola amigos, soy **Julio Martínez**, bienvenidos a mi página de **GitHub**. Como parte de mi crecimiento profesional, voy a publicar en este sitio mi trabajo como **Data Scientist**, esto con el objetivo de mostrar evidencia sobre mi capacidad para integrarme a un equipo de trabajo profesional. 
+**Científico de Datos** con amplia experiencia en análisis de datos, modelado estadístico y desarrollo de soluciones predictivas. Uso de lenguajes de programación como **Python** y **R**, así como en herramientas de análisis de datos como **TensorFlow** y **scikit-learn**. Capaz de transformar datos complejos en información accionable y tomar decisiones fundamentadas para impulsar estrategias empresariales. Mi enfoque combina habilidades técnicas sólidas con una mente analítica y creativa para abordar desafíos en el mundo de la ciencia de datos. Busco **oportunidades** emocionantes para aplicar mis conocimientos en un entorno colaborativo e innovado
 
 Los proyectos que verás aquí están en español, si deseas ver su versión en inglés puedes hacerlo en mi página de [Kaggle](https://www.kaggle.com/juliokorleone).
-
-Tu follow me ayuda y me inspira a continuar trabajando en este mundo que me apasiona tanto. 
 
 ---
 
 **ENGLISH**
 
-Hi folks, I’m **Julio Martinez**, welcome to my **GitHub** page. As part of my professional growth, I will post on this site my work as a **Data Scientist**, to show evidence about my ability to join a professional team. Your follow helps and inspires me to keep working on what I’m passionate about.
+**Data Scientist** with extensive experience in data analysis, statistical modeling, and predictive solution development. Use programming languages such as **Python** and **R**, as well as data analysis tools like **TensorFlow** and **scikit-learn**. Able to translate complex data into actionable insights and make informed decisions to drive business strategies. My approach blends strong technical skills with an analytical and creative mindset to tackle challenges in the world of data science. I'm seeking exciting opportunities to apply my expertise in a collaborative and innovative environment.
 
 You can see all my projects in spanish, if you prefer english version, please visit my [Kaggle](https://www.kaggle.com/juliokorleone) page.
 
 
-**Interested on:**
-- Data Analyzis
-- Machine Learning
-- Time Series
-- Deep Learning
-- NLP
-
-**I'm Open to:**
-- any collaboration work
-- machine learning projects
-- business intelligence projects
-- grow up my skills
+*   🌍  I'm based in México
+*   🖥️  See my portfolio at [DS_Projects](http://github.com/juliocmi)
+*   ✉️  You can contact me at [mizzag@gmail.com](mailto:mizzag@gmail.com)
+*   🧠  I'm learning Amazon AWS
+*   🤝  I'm open to collaborating on Projects
+*   ⚡  I'm secretly Batman, tell everyone you know
 
 ## Hard Skills:
 
@@ -51,23 +41,21 @@ You can see all my projects in spanish, if you prefer english version, please vi
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white) 
 
-**Databases**
+**Technologiess**
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Office**
-
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
-**Operating System**
-
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-**Additional Tools**
+**Others**
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
 
-## Connect With Me:
+## Socials:
 
-[LinkedIn](https://www.linkedin.com/in/juliocmi/) || [Twitter](https://twitter.com/juliocmi) || [Kaggle](https://www.kaggle.com/juliokorleone)
+<p align="left"> <a href="https://www.github.com/juliocmi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https/juliocmi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/juliocmi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/juliocmi"><img src="https://github-readme-stats.vercel.app/api?username=juliocmi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="juliocmi's GitHub stats" /></a>
+
+<a href="http://www.github.com/juliocmi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juliocmi&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
