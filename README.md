@@ -23,7 +23,7 @@ You can see all my projects in spanish, if you prefer english version, please vi
 
 
 *   🌍  I'm based in México
-*   🖥️  See my portfolio at [DS_Projects](http://github.com/juliocmi)
+*   🖥️  See my portfolio at [DS_Projects](https://github.com/juliocmi?tab=repositories)
 *   ✉️  You can contact me at [mizzag@gmail.com](mailto:mizzag@gmail.com)
 *   🧠  I'm learning Amazon AWS
 *   🤝  I'm open to collaborating on Projects
