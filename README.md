@@ -9,7 +9,7 @@ Here are some ideas to get you started:!-->
 
 **ESPAÑOL**
 
-**Científico de Datos** experimentado con +3 años en el análisis de datos y la inteligencia artificial, actualmente desempeñando roles como Data Instructor y Manager Interviewer en TripleTen, una plataforma líder en educación tecnológica. En mi posición como instructor, diseño y facilito cursos prácticos sobre análisis de datos, machine learning y visualización, ayudando a estudiantes a desarrollar competencias aplicables en el mundo real. Como Manager Interviewer, evalúo candidatos para roles de datos, asegurando la selección de talento alineado con las necesidades empresariales en un mercado cada vez más competitivo. Mi enfoque se centra en bridging la brecha entre la teoría y la práctica, fomentando el crecimiento profesional en un ecosistema impulsado por la innovación.
+**Científico de Datos** experimentado con +3 años en el análisis de datos y la inteligencia artificial, actualmente desempeñando roles como **Data Instructor** & **Manager Interviewer en TripleTen**, una plataforma líder en educación tecnológica. En mi posición como instructor, diseño y facilito cursos prácticos sobre análisis de datos, machine learning y visualización, ayudando a estudiantes a desarrollar competencias aplicables en el mundo real. Como Manager Interviewer, evalúo candidatos para roles de datos, asegurando la selección de talento alineado con las necesidades empresariales en un mercado cada vez más competitivo. Mi enfoque se centra en bridging la brecha entre la teoría y la práctica, fomentando el crecimiento profesional en un ecosistema impulsado por la innovación.
 
 **Habilidades Técnicas Clave:**
 - Dominio de lenguajes de programación como Python, R y SQL para manipulación y análisis de datos avanzados.
@@ -31,7 +31,7 @@ Apasionado por el impacto transformador de los datos, en TripleTen contribuyo a 
 
 **ENGLISH**
 
-***Data Scientist** experienced with +3 years in data analysis and artificial intelligence, currently playing roles as Data Instructor and Manager Interviewer at TripleTen, a leading technology education platform. In my position as an instructor, I design and facilitate workshops on data analytics, machine learning and visualization, helping students develop real-world skills. As an Interviewer Manager, I evaluate candidates for data roles, ensuring the selection of talent aligned with business needs in an increasingly competitive market. My focus is on bridging the gap between theory and practice, fostering professional growth in an innovation-driven ecosystem.
+***Data Scientist** experienced with +3 years in data analysis and artificial intelligence, currently playing roles as **Data Instructor** & **Manager Interviewer** at TripleTen, a leading technology education platform. In my position as an instructor, I design and facilitate workshops on data analytics, machine learning and visualization, helping students develop real-world skills. As an Interviewer Manager, I evaluate candidates for data roles, ensuring the selection of talent aligned with business needs in an increasingly competitive market. My focus is on bridging the gap between theory and practice, fostering professional growth in an innovation-driven ecosystem.
 
 **Key Technical Skills:**
 - Command of programming languages such as Python, R and SQL for advanced data manipulation and analysis.
