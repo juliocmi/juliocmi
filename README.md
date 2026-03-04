@@ -6,7 +6,7 @@ Here are some ideas to get you started:!-->
 # 👨‍🏫 Julio C. Martínez  
 ## 📊 AI-Machine Learning Engineer | Data Scientist | Instructor | Mentor
 
-<img src=https://github.com/juliocmi/juliocmi/assets/113372698/1e506cc5-a359-447f-a9b5-e71d58c87a35.jpg>
+<img src=https://github.com/juliocmi/Assets/blob/52d4bb30e716ca2f95e3f8d954bfc7a11c503780/ChatGPT-Image-4-mar-2026%2C-01_45_04-p.m..jpg>
 
 ## About Me
 ---
