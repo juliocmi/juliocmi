@@ -3,7 +3,7 @@
 **juliocmi/juliocmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:!-->
-# 👨‍🏫 Julio C. Martínez  
+# 🧑‍💻 Julio C. Martínez  
 ## 📊 AI-Machine Learning Engineer | Data Scientist | Instructor | Mentor
 
 <img src=https://github.com/juliocmi/Assets/blob/52d4bb30e716ca2f95e3f8d954bfc7a11c503780/ChatGPT-Image-4-mar-2026%2C-01_45_04-p.m..jpg>
